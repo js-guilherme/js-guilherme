@@ -10,25 +10,15 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Assistente de Estudos Econômicos** \
 [**Federação das Indústrias do Estado do Rio de Janeiro**](https://www.firjan.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-2023 - Presente
+`2023 - Presente`
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4FEygEphxNZjlDfYSjqA59ql-ZpgV9r_ndw&s"/>](https://bemobi.com/)
-
-**Estagiário de Dados** \
-[**Bemobi**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-2023 - 2023
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4FEygEphxNZjlDfYSjqA59ql-ZpgV9r_ndw&s"/>](https:www.bemobi.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RAKLC-xVppZvNfdJKK26tufYOj2Ybq4cpg&s"/>](https://www.firjan.com.br/)
 
 **Estagiário de Estudos Econômicos** \
 [**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-2021 - 2023
+`2021 - 2023`
 <br/>
 <br/>
 
