@@ -9,15 +9,21 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RAKLC-xVppZvNfdJKK26tufYOj2Ybq4cpg&s"/>](https://www.firjan.com.br/)
 
 **Assistente de Estudos Econômicos** \
-[**Federação das Indústrias do Estado do Rio de Janeiro**](https://www.firjan.com.br/) • Full-time \
+[**Federação das Indústrias do Estado do Rio de Janeiro**](https://www.firjan.com.br/) \
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
-`2023 - Presente`
+`2023 - Presente` \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RAKLC-xVppZvNfdJKK26tufYOj2Ybq4cpg&s"/>](https://www.firjan.com.br/)
+**Estagiário de Dados** \
+[**Bemobi**](https://www.firjan.com.br/)   \
+`2023 - 2023` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RAKLC-xVppZvNfdJKK26tufYOj2Ybq4cpg&s"/>](https://www.firjan.com.br/)
 
 **Estagiário de Estudos Econômicos** \
-[**Nubank**](https://nubank.com.br/) • Contract \
+[**Federação das Indústrias do Estado do Rio de Janeiro**](https://www.firjan.com.br/)  \
 `2021 - 2023`
 <br/>
 <br/>
