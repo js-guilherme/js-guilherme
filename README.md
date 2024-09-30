@@ -29,17 +29,17 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 <br/>
 
 </p>        
-<!--- stats (end) -->
 
+<!--- stats (end) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r,python,github,vscode,postgres,mysql,&perline=14" />
   </a>
@@ -49,25 +49,25 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/jefferson-silva-guilherme-6b510120a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
   
 </p>
 
 
-### ⚙️ GitHub Analytics
+**GitHub Analytics**
 
 <!--- stats & Trophy (start) -->
-<p align="center">
+<p align="left">
   <!--- stats (start) -->
-<table align="center">
+<table align="left">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -76,9 +76,9 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=js-guilherme&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="left">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=js-guilherme&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=js-guilherme&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
