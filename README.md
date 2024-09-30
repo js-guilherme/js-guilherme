@@ -4,13 +4,13 @@
 
 ### Experiência de trabalho
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Na visão abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RAKLC-xVppZvNfdJKK26tufYOj2Ybq4cpg&s"/>](https://www.firjan.com.br/)
 
 **Assistente de Estudos Econômicos** \
 [**Federação das Indústrias do Estado do Rio de Janeiro**](https://www.firjan.com.br/) \
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/economia/noticia/2024/07/16/na-disputa-com-o-robo-quem-se-garante-veja-as-profissoes-mais-imunes-a-inteligencia-artificial.ghtml) \
 `2023 - Presente` \
 <br/>
 
