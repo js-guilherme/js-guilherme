@@ -1,4 +1,4 @@
-## Hi there 👋a
+## Hi there 👋
 
 ## Olá, meu nome é Jefferson!
 
