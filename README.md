@@ -30,7 +30,16 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 
 </p>        
 
-### Experiência de trabalho
+### Contato
+<!--icons and links-->
+<p align="left">
+<a href="https://www.linkedin.com/in/jefferson-silva-guilherme-6b510120a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  
+</p>
+
+<!--- stats (end) -->
+
+### Linguagens e Tecnologias
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -39,17 +48,7 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 </p>
 
 
-### Experiência de trabalho
-
-<!--icons and links-->
-<p align="left">
-<a href="https://www.linkedin.com/in/jefferson-silva-guilherme-6b510120a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-  
-</p>
-
-
-### Experiência de trabalho
+### Github Analitycs
 
 <!--- stats & Trophy (start) -->
 <p align="left">
@@ -71,7 +70,5 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 </tr>
 </table>
 <!--- stats (end) -->
+</p>       
 
-
-</p>        
-<!--- stats (end) -->
