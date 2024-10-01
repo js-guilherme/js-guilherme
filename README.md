@@ -30,14 +30,7 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 
 </p>        
 
-<!--- stats (end) -->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+### Experiência de trabalho
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -46,13 +39,7 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+### Experiência de trabalho
 
 <!--icons and links-->
 <p align="left">
@@ -62,7 +49,7 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 </p>
 
 
-**GitHub Analytics**
+### Experiência de trabalho
 
 <!--- stats & Trophy (start) -->
 <p align="left">
