@@ -1,12 +1,10 @@
 ```js
-import Desenvolvedor from "js-guilherme";
-
-class SobreMim extends Economista {
-  nome = "Jefferson Silva Guilherme";
-  area = "Estudos Econômicos";
-  trabalho = "Firjan";
-  local = "Rio de Janeiro";
-}
+class SobreMim(Economista):
+    def __init__(self):
+        self.nome = "Jefferson Silva Guilherme"
+        self.area = ["Estudos Econômicos", "Análise de Dados"]
+        self.trabalho = "Firjan"
+        self.local = "Rio de Janeiro"
 ```
 ---
 Na visão abaixo você encontrará minha experiência de trabalho mais recente:
