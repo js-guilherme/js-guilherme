@@ -28,14 +28,6 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 <br/>
 <br/>
 
-</p>        
-
-### Contato
-<!--icons and links-->
-<p align="left">
-<a href="https://www.linkedin.com/in/jefferson-silva-guilherme-6b510120a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
-</p>
 
 <!--- stats (end) -->
 
@@ -50,10 +42,8 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 
 ### Github Analitycs
 
-<!--- stats & Trophy (start) -->
-<p align="left">
-  <!--- stats (start) -->
-<table align="left">
+
+<table>
 <tr border="none">
 <td width="50%" align="center">
   
@@ -69,6 +59,11 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-</p>       
 
+---
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
