@@ -1,9 +1,14 @@
-## Hi there 👋
+```js
+import Desenvolvedor from "js-guilherme";
 
-## Olá, meu nome é Jefferson!
-
-### Experiência de trabalho
-
+class SobreMim extends Economista {
+  nome = "Jefferson Silva Guilherme";
+  area = "Estudos Econômicos";
+  trabalho = "Firjan";
+  local = "Rio de Janeiro";
+}
+```
+---
 Na visão abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RAKLC-xVppZvNfdJKK26tufYOj2Ybq4cpg&s"/>](https://www.firjan.com.br/)
