@@ -64,6 +64,6 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-silva-guilherme-6b510120a/)](https://www.linkedin.com/in/jefferson-silva-guilherme-6b510120a/)
-[![Gmail Badge](https://img.shields.io/badge/-jefferson.sg16@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefferson.sg16@gmail.com)](mailto:jefferson.sg16@gmail.com)
+[![Linkedin](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-silva-guilherme-6b510120a/)](https://www.linkedin.com/in/jefferson-silva-guilherme-6b510120a/)
+[![Gmail Badge](https://img.shields.io/badge/--006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefferson.sg16@gmail.com)](mailto:jefferson.sg16@gmail.com)
 
