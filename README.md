@@ -38,7 +38,7 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,python,github,vscode,postgres,mysql,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=r,python,github,vscode,sql,&perline=14" />
   </a>
 </p>
 
