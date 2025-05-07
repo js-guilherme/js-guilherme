@@ -47,13 +47,6 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 
 
 <table>
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=js-guilherme&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=js-guilherme&theme=dark&hide_border=false" /> 
-</td>
 
 <td width="50%" align="left">
 
@@ -64,9 +57,3 @@ Destaques: [Na disputa com o robô, quem se garante?](https://oglobo.globo.com/e
 </table>
 
 ---
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-silva-guilherme-6b510120a/)](https://www.linkedin.com/in/jefferson-silva-guilherme-6b510120a/)
-[![Gmail Badge](https://img.shields.io/badge/--006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefferson.sg16@gmail.com)](mailto:jefferson.sg16@gmail.com)
-
